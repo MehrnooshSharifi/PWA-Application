@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "iranyekanThin";
+  font-style: normal;
+  font-weight: 100;
+  src: url("/assets/fonts/iranyekan/woff/IRANYekanXFaNum-Thin.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "iranyekanLight";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/assets/fonts/iranyekan/woff/IRANYekanXFaNum-Light.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "iranyekanRegular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/iranyekan/woff/IRANYekanXFaNum-Regular.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "iranyekanMedium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/assets/fonts/iranyekan/woff/IRANYekanXFaNum-Medium.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "iranyekanBold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/assets/fonts/iranyekan/woff/IRANYekanXFaNum-Bold.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "iranyekanExtraBold";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/assets/fonts/iranyekan/woff/IRANYekanXFaNum-ExtraBold.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "iranyekanBlack";
+  font-style: normal;
+  font-weight: 900;
+  src: url("/assets/fonts/iranyekan/woff/IRANYekanXFaNum-Black.woff")
+    format("woff");
+}
+
+@font-face {
+  font-family: "iranyekanEnNumMedium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/assets/fonts/iranyekan/En/woff/IRANYekanXNoEn-Medium.woff")
+    format("woff");
+}
+
+@font-face {
+  font-family: "iranyekanEnNumBold";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/assets/fonts/iranyekan/En/woff/IRANYekanXNoEn-Bold.woff")
+    format("woff");
+}
